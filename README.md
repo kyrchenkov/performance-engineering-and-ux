@@ -108,6 +108,7 @@ https://disk.yandex.ru/d/UPBw8zsszlbuCQ
 ## Публикация на Хабр
 «Инженерия UX и производительности: от ядра к периферии»  
 https://habr.com/ru/articles/980970/
+[«Инженерия UX и производительности: от ядра к периферии»](https://habr.com/ru/articles/980970/)  
 
 ---
 
