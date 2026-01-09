@@ -100,7 +100,7 @@
 
 ## PDF-версия
 
-[Единая система UX и производительности: семь проектов на legacy](https://disk.yandex.ru/d/UPBw8zsszlbuCQ)  
+[Единая система UX и производительности: семь проектов на legacy](https://disk.yandex.ru/d/WpbC1VnxSEHwlg)  
 
 ---
 
