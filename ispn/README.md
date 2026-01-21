@@ -23,7 +23,7 @@
 graph TD
     A[Пользователь] --> B(tracker.js.track)
     B --> C[nav_stats в localStorage]
-    C --> D(sendBeacon → log-stats.php)
+    B --> D(sendBeacon → log-stats.php)
     D --> E[user-paths.log]
     E --> F[analyze-paths.php]
     F --> G[top-paths.json]
