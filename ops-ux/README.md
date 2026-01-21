@@ -34,7 +34,7 @@ graph TD
 
     D & E --> J[Сохранение в localStorage]
     D & E --> K[formatPhone()]
-    E --> L[Вставка в [data-qa-id="main-input-element"]]
+    E --> L["Вставка в [data-qa-id='main-input-element']"]
 
     E --> M[MutationObserver]
     M --> N[Скрытие: [data-qa-id="warning-license"]]
