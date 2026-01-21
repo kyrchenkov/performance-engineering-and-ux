@@ -34,7 +34,7 @@ graph TD
     E --> I[Активация → /pwa/activated]
 
     C & D --> J[DYNAMIC_PAGE_CACHE]
-    J --> K[precacheDynamicPage(url)]
+    J --> K["precacheDynamicPage(url)"]
     J --> L[nav_stats → postMessage]
 
     C & D --> M[fetch → кэш или сеть]
