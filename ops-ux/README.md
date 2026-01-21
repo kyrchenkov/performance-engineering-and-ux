@@ -31,9 +31,7 @@ graph TD
     E --> G[Шаблоны для чата]
     E --> H[Ввод: улица, кв, телефон]
     E --> I[Реактивное обновление]
-
-    D & E --> J[Сохранение в localStorage]
-    D & E --> K["formatPhone()"]
+    E --> K["formatPhone()"]
     E --> L["Вставка в [data-qa-id='main-input-element']"]
 
     E --> M[MutationObserver]
