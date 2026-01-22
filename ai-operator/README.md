@@ -129,3 +129,9 @@
   - Восстановление при возврате
 - Аварийное торможение:
   - Очистка `setInterval`, `setTimeout`, `MutationObserver`, `WebSocket`, `requestAnimationFrame`
+
+---
+
+## Описание реализации проекта
+
+![AI-Operator](ai-operator-img.png)
