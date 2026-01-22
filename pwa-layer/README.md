@@ -107,6 +107,31 @@ graph TD
 
 ---
 
+## Жизненный цикл PWA-пользователя
+
+```mermaid
+    sequenceDiagram
+      participant П as Пользователь
+      participant B as Браузер
+      participant SW as SW (PWA)
+      participant S as Сервер
+
+      П->>B: Переход на сайт
+      B->>B: isPWA = matchMedia(standalone)
+      alt Если PWA
+        B->>SW: register('/service-worker.js')
+        SW->>SW: install → precache static
+        SW->>SW: activate → cleanup + POST /pwa/activated
+        S->>S: session[is_pwa_user] = true
+      end
+      П->>П: Навигация
+      B->>SW: postMessage(nav_stats)
+      SW->>SW: precacheDynamicPage()
+      SW->>П: fetch → кэш или сеть
+```
+
+---
+
 ## Файловая структура
 
 ```
