@@ -156,3 +156,9 @@ graph TD
         ├── header.twig
         └── footer.twig
 ```
+
+---
+
+## Описание реализации проекта
+
+![PWA-Layer](pwa-layer-img.png)
