@@ -126,3 +126,6 @@ graph TD
 
 ![Lighthouse](lighthouse.webp)
 
+## TTFB analysis in PWAs
+
+![TTFB_PWA](pwa_ttfb.png)
