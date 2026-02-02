@@ -146,9 +146,3 @@ if (
 
 Очистка: setTimeout, setInterval, MutationObserver, WebSocket, requestAnimationFrame
 Результат: 95% сессий — 55–60 FPS
-
----
-
-## Описание реализации проекта
-
-![ISPN](ispn-img.png)
