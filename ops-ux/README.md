@@ -132,9 +132,3 @@ graph TD
 └── images/
     └── icon-128.png
 ```
-
----
-
-## Описание реализации проекта
-
-![OPS-UX](ops-ux-img.png)
