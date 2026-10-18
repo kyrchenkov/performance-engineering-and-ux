@@ -155,5 +155,5 @@ https://uxengineer.ru/pwa
 Производительность PHP. Фундамент TTFB 26 мс  
 https://uxengineer.ru/php-performance  
 
-Performance Guard: клиентская система оптимизации производительности для веб-приложений
-https://uxengineer.ru/performance-guard
+Performance Guard: клиентская система оптимизации производительности для веб-приложений  
+https://uxengineer.ru/performance-guard  
