@@ -134,26 +134,34 @@ graph TD
 
 ## Дополнительная информация
 
-U.X.Engineer Consulting  
+⧉ U.X.Engineer Consulting  
+Комплексный веб-консалтинг для малого и среднего бизнеса  
 https://uxengineer.ru/  
 
-Методология системного анализа и декомпозиции архитектуры U.X.I.L.C.  
+⧉ Методология системного анализа и декомпозиции архитектуры U.X.I.L.C.  
 Процесс «Девятого инженера»  
 https://uxengineer.ru/uxilc-methodology  
 
-Что бизнес покупает на самом деле:  
-маркетинг, менеджмент и инжиниринг  
+⧉ Что бизнес покупает на самом деле:  
+Маркетинг, менеджмент и инжиниринг  
 https://uxengineer.ru/articles/what-business-really-buys  
 
-Инженерия UX и производительности  
+⧉ Инженерия UX и производительности  
 Внимание пользователя как архитектура надёжности, автоматизации и доверия  
 https://uxengineer.ru/pe-uxe-sre  
 
-Разработка PWA для Android и iOS  
+⧉ Информационная база IX-инженера  
+Подход, логика, реализация  
+https://uxengineer.ru/system-documents  
+
+⧉ Разработка PWA для Android и iOS  
+Полноценное внедрение Progressive Web App с двумя уровнями Service Worker  
 https://uxengineer.ru/pwa  
 
-Производительность PHP. Фундамент TTFB 26 мс  
+⧉ Производительность PHP. Фундамент TTFB 26 мс  
+Оптимизация стека LAMP/LEMP: MySQL, Apache, PHP-FPM, OPcache, кэширование  
 https://uxengineer.ru/php-performance  
 
-Performance Guard: клиентская система оптимизации производительности для веб-приложений  
+⧉ Performance Guard: клиентская система оптимизации производительности для веб-приложений  
+Контроль нагрузки на клиенте: мониторинг FPS, энергосбережение, автоматическая очистка ресурсов  
 https://uxengineer.ru/performance-guard  
