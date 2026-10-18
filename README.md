@@ -129,3 +129,31 @@ graph TD
 ## TTFB analysis in PWAs
 
 ![TTFB_PWA](pwa_ttfb.png)
+
+---
+
+## Дополнительная информация
+
+U.X.Engineer Consulting
+https://uxengineer.ru/
+
+Методология системного анализа и декомпозиции архитектуры U.X.I.L.C.
+Процесс «Девятого инженера»
+https://uxengineer.ru/uxilc-methodology
+
+Что бизнес покупает на самом деле:
+маркетинг, менеджмент и инжиниринг
+https://uxengineer.ru/articles/what-business-really-buys
+
+Инженерия UX и производительности
+Внимание пользователя как архитектура надёжности, автоматизации и доверия
+https://uxengineer.ru/pe-uxe-sre
+
+Разработка PWA для Android и iOS
+https://uxengineer.ru/pwa
+
+Производительность PHP. Фундамент TTFB 26 мс
+https://uxengineer.ru/php-performance
+
+Performance Guard: клиентская система оптимизации производительности для веб-приложений
+https://uxengineer.ru/performance-guard
